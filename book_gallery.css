@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Satisfy&family=Zeyada&display=swap');
+
+body {
+    color: rgb(206, 204, 237);
+    background-image:url(./image/library-book-bookshelf-read.jpeg);
+}
+
+.col {
+    height: 635px;
+    width: 19.2%;
+    /* border: rgba(195, 168, 168, 0.491) 3px solid; */
+    float: left;
+    padding: 2px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.416);
+
+}
+
+img {
+    width: 60%;
+    /* height: 200px; */
+}
+
+a {
+    float:calc();
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+}
+#d1{
+    font-family: 'Mynerve', cursive;
+}
